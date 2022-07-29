@@ -19,7 +19,7 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
+    margin: -7px;
     padding: 0;
 }
 
@@ -168,7 +168,7 @@ p {
 }
 
 .header_wrapper .navbar-brand img {
-    max-width: 13rem;
+    max-width: 7rem;
     height: auto;
 }
 
